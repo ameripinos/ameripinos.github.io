@@ -9,13 +9,13 @@
 title: AmeriPinos
 email: info@ameripinos.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AmeriPinos is a unique cuisine that is a mix of American and Filipino foods.
+  We are a family owned and operated business that is focused on our customers
+  and strive to deliver unique flavors and ideas you can't find anywhere else!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ameripinos.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ameripinos
+github_username:  ameripinos
 
 # Jekyll
 permalink:          /:title/
@@ -34,6 +34,38 @@ sass:
 
 # Comments
 disqus_shortname:   ameripinos
+
+ # Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:              info@ameripinos.com
+twitter:            ameripinos
+#facebook:           username
+#github:             username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+#instagram:          username
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
